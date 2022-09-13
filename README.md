@@ -20,7 +20,8 @@ I also have two specializations:
 
 Thinking in terms of years, I have passed 30: Designing, Managing and Implementing/Leading Teams and all sorts of IT Solutions.
 
-Rooted on the Open Source side of the force, you can find some of my Open Source Projects here: https://github.com/msleal/. Please: Clone it, Fix it, and do a PR!
+Rooted on the Open Source side of the force, you can find some of my Open Source Projects here: https://github.com/msleal/. 
+Please: Clone it, Fix it, and do a PR!
 
 I drink beer. A lot.
 
@@ -34,7 +35,9 @@ Many tattoos.
 
 I'm a big fan of Formula One ®, Lewis Hamilton, and Sport Club Internacional.
 
-I like all kind of Sport, and recently I'm enjoying watching Tennis matches. Particularly, I enjoy watching: Monfils, Coco Gauff, Nishikori, Kirgios and Tiafoe. Serena, always.
+I like all kind of Sport, and recently I'm enjoying watching Tennis matches. 
+Particularly, I enjoy watching: Monfils, Coco Gauff, Nishikori, Kirgios and Tiafoe. 
+Serena, always.
 
 I do Krav Maga
 
