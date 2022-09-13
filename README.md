@@ -1,5 +1,5 @@
 # bio
-# All over the curbs...
+# all over the curbs...
 
 My name is Marcelo Leal.
 
