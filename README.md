@@ -47,4 +47,4 @@ If time allows it, I like to kill some zoombies with my kids (online), and also 
 
 Almost forgot... I have a wife too: Love you baby!
 
-You can follow me here, [here](https://linkedin.com/in/marceloleal/) or [here](https://instagram.com/msleal/).
+You can follow me here, [here](https://linkedin.com/in/marceloleal/) or [here](https://instagram.com/byleal/).
