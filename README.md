@@ -1,5 +1,5 @@
 # all over the curbs...
-[all over the curbs...](https://aroundcorners.azureedge.net/assets/images/ac.jpg)
+[all over the curbs...](https://aroundcorners.azureedge.net/assets/images/ac.jpg?raw=true "all over the curbs...")
 
 # bio
 My name is Marcelo Leal.
