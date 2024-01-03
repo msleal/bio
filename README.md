@@ -1,17 +1,18 @@
 # all over the curbs...
-![All over the curbs...](https://aroundcorners.azureedge.net/assets/images/ac.jpg?raw=true)
+![All over the curbs...]([https://marceloleal.com.br/assets/images/IFA_Cover.png?raw=true)
 
 # bio
 My name is Marcelo Leal.
 
 Brazilian.
 
-I'm currently working as Latin America, Managing Director - Hybrid and Multi Cloud Lead at Accenture.
+I'm currently working as Product, Vice President - at skie.io.
 
 I have worked in different companies and industries, being my last adventures as: 
-- Storage Engineering and Architect Lead for the Cloud Infrastructure Services at Locaweb; 
-- Enterprise Cloud Solutions Architect for Amazon Web Services;
-- Cloud Solutions Architect/Open Source Lead/Data & AI Lead/Application Modernization and Innovation Lead for Microsoft Azure.
+- Latin America, Managing Director - Hybrid and Multicloud at Accenture
+- Brazil, Open Source/Data & AI/Application Modernization and Innovation Lead for Microsoft Azure.
+- Latin America, Enterprise Cloud Solutions Architect for Amazon Web Services;
+- Cloud Storage Engineering and Architect Lead for the Cloud Infrastructure Services at Locaweb; 
 
 In this journey I got all five Amazon Web Services Certifications (Associate and Professional Levels), as well as all three for Microsoft Azure (Operations, Architecture and Development). 
 
@@ -30,7 +31,7 @@ Wine and Whisky too. But not so much...
 
 I have three kids.
 
-Two books.
+Three books.
 
 Many tattoos.
 
