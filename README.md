@@ -38,7 +38,7 @@ Many tattoos.
 I'm a big fan of Formula One ®, Lewis Hamilton, and Sport Club Internacional.
 
 I like all kind of Sport, and recently I'm enjoying watching Tennis matches. 
-Particularly, I enjoy watching: Monfils, Coco Gauff, Nishikori, Kirgios and Tiafoe. 
+Particularly, I enjoy watching: Monfils, Coco Gauff, Nishikori, Naomi, Kirgios and Tiafoe. 
 Serena, always.
 
 I do Krav Maga
