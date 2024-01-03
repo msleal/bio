@@ -27,7 +27,7 @@ Please: Clone it, Fix it, and do a PR!
 
 I drink beer. A lot.
 
-Wine and Whisky too. But not so much...
+Wine and Whisky too. But not so much.
 
 I have three kids.
 
@@ -41,7 +41,7 @@ I like all kind of Sport, and recently I'm enjoying watching Tennis matches.
 Particularly, I enjoy watching: Monfils, Coco Gauff, Nishikori, Naomi, Kirgios and Tiafoe. 
 Serena, always.
 
-I do Krav Maga
+I do Krav Maga.
 
 I like all kind of Music and art.
 
