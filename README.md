@@ -1,5 +1,5 @@
 # all over the curbs...
-![All over the curbs...][https://marceloleal.com.br/assets/images/IFA_Cover.png?raw=true)
+![All over the curbs...][https://marceloleal.com.br/assets/images/IFA_Cover.png)
 
 # bio
 My name is Marcelo Leal.
